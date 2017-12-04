@@ -1,0 +1,8 @@
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercícios\01122017\AlbertoZaranzaAnotacoes\bin\Debug\netstandard2.0\AlbertoZaranzaAnotacoes.deps.json
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercícios\01122017\AlbertoZaranzaAnotacoes\bin\Debug\netstandard2.0\AlbertoZaranzaAnotacoes.dll
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercícios\01122017\AlbertoZaranzaAnotacoes\bin\Debug\netstandard2.0\AlbertoZaranzaAnotacoes.pdb
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercícios\01122017\AlbertoZaranzaAnotacoes\obj\Debug\netstandard2.0\AlbertoZaranzaAnotacoes.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercícios\01122017\AlbertoZaranzaAnotacoes\obj\Debug\netstandard2.0\AlbertoZaranzaAnotacoes.AssemblyInfoInputs.cache
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercícios\01122017\AlbertoZaranzaAnotacoes\obj\Debug\netstandard2.0\AlbertoZaranzaAnotacoes.AssemblyInfo.cs
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercícios\01122017\AlbertoZaranzaAnotacoes\obj\Debug\netstandard2.0\AlbertoZaranzaAnotacoes.dll
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercícios\01122017\AlbertoZaranzaAnotacoes\obj\Debug\netstandard2.0\AlbertoZaranzaAnotacoes.pdb

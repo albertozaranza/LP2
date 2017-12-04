@@ -1,0 +1,12 @@
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercícios\01122017\AlbertoZaranzaConsoleApp\bin\Debug\netcoreapp2.0\AlbertoZaranzaConsoleApp.deps.json
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercícios\01122017\AlbertoZaranzaConsoleApp\bin\Debug\netcoreapp2.0\AlbertoZaranzaConsoleApp.runtimeconfig.json
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercícios\01122017\AlbertoZaranzaConsoleApp\bin\Debug\netcoreapp2.0\AlbertoZaranzaConsoleApp.runtimeconfig.dev.json
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercícios\01122017\AlbertoZaranzaConsoleApp\bin\Debug\netcoreapp2.0\AlbertoZaranzaConsoleApp.dll
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercícios\01122017\AlbertoZaranzaConsoleApp\bin\Debug\netcoreapp2.0\AlbertoZaranzaConsoleApp.pdb
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercícios\01122017\AlbertoZaranzaConsoleApp\obj\Debug\netcoreapp2.0\AlbertoZaranzaConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercícios\01122017\AlbertoZaranzaConsoleApp\obj\Debug\netcoreapp2.0\AlbertoZaranzaConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercícios\01122017\AlbertoZaranzaConsoleApp\obj\Debug\netcoreapp2.0\AlbertoZaranzaConsoleApp.AssemblyInfo.cs
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercícios\01122017\AlbertoZaranzaConsoleApp\obj\Debug\netcoreapp2.0\AlbertoZaranzaConsoleApp.dll
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercícios\01122017\AlbertoZaranzaConsoleApp\obj\Debug\netcoreapp2.0\AlbertoZaranzaConsoleApp.pdb
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercícios\01122017\AlbertoZaranzaConsoleApp\bin\Debug\netcoreapp2.0\AlbertoZaranzaAnotacoes.dll
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercícios\01122017\AlbertoZaranzaConsoleApp\bin\Debug\netcoreapp2.0\AlbertoZaranzaAnotacoes.pdb
